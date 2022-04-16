@@ -33,6 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .clock {
@@ -138,3 +139,5 @@ body {
     box-shadow: 0 0 20px var(--clr),
     0 0 60px var(--clr);
 }
+
+
